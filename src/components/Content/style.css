@@ -1,0 +1,61 @@
+.background{
+    width: 100%;
+    background-image: url("./back.jpeg");
+    background-size: cover;
+    background-position: center 35%;
+    color: white;
+    text-shadow: 0 0 10px black;
+    min-height: 100vh
+  
+  }
+  
+  
+  .picture{
+    background-color: rgba(0, 0, 0, 0);
+    border: 0ch;  
+
+  }
+  
+  .row{
+    width: 1300px;;
+  }
+  
+  .typein{
+    background-color: rgba(0, 0, 0, 0);
+    border: 0ch;
+    color:#fcdf34;
+    font-weight: 700;
+    font-size:30px;
+  }
+  
+  ul {
+    list-style-type: none;
+  }
+
+  img{
+      max-height: 45vh;
+      max-width: 45vh
+  }
+
+  .bandname{
+    font-weight: 700;
+    font-size:50px;
+    color:#e93b48
+  }
+
+  .guessed{
+      min-height: 35px;
+      margin-bottom: 0
+  }
+
+.player{
+    height:0px;
+    left:0px;
+    right:0px;
+    position: fixed
+}
+
+.inputBand{
+  background-color: rgba(0, 0, 0, 0);
+    border: 0ch;  
+}

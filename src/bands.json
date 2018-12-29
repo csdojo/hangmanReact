@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "name": "greenday",
+      "image": "http://www.greenday.com/sites/g/files/g2000006086/f/201710/band-min_StainedGlass.png",
+      "link":"http://other.web.ra01.sycdn.kuwo.cn/resource/n3/128/59/39/468831999.mp3"
+      
+    },
+    {
+      "id": 2,
+      "name": "thebeatles",
+      "image": "http://www.stickpng.com/assets/images/5863ea587d90850fc3ce2963.png",
+      "link":"http://other.web.nf01.sycdn.kuwo.cn/resource/n2/10/89/425833482.mp3"
+     
+    },
+    {
+      "id": 3,
+      "name": "queen",
+      "image": "https://pngimage.net/wp-content/uploads/2018/06/queen-band-png-3.png",
+      "link":"http://other.web.rd01.sycdn.kuwo.cn/resource/n2/99/15/232589887.mp3"
+   
+    },
+    {
+      "id": 4,
+      "name": "coldplay",
+      "image": "https://cdn131.picsart.com/259998207002212.png?r1024x1024",
+      "link":"http://other.web.ri01.sycdn.kuwo.cn/resource/n1/88/3/1012299256.mp3"
+    }
+  ]
+  
