@@ -26,7 +26,7 @@ class Content extends Component {
               <ul className="list-group list-group-flush text-center ">
                 <li className="list-group-item typein">
                   <p>Band Name</p>
-                  <input className="inputBand text-center" onKeyPress={this.props.handleKeyPress} value={this.props.userGuess}></input>
+                  <input className="inputBand text-center" onKeyPress={this.props.handleKeyPress} value={this.props.userGuess} autofocus="true"></input>
                 </li>
                 <li className="list-group-item typein">
                   <p>Guessed Letter</p>
