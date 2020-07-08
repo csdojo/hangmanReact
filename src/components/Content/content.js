@@ -12,10 +12,10 @@ class Content extends Component {
               <ul className="list-group list-group-flush">
                 <li className="list-group-item picture">
                   <p className="bandname">{this.props.isWin 
-                  ? `${this.props.bandName}` : `Band name is here`}
+                  ? `${this.props.bandName}` : `Guess the band!`}
                     </p>
                   <img src={this.props.isWin 
-                    ? `${this.props.bandPhoto}` : `http://nachohippo.com/wordpress/wp-content/uploads/2017/07/Band-PNG-Image.png`} />
+                    ? `${this.props.bandPhoto}` : `https://www.pngmart.com/files/3/Band-PNG-Photos.png`} />
                   <div className="player">
                     <ReactPlayer url={this.props.isWin ? `${this.props.bandLink}` : ``} playing />
                   </div>
